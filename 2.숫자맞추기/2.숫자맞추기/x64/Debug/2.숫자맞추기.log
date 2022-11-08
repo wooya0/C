@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\2.숫자맞추기\2.숫자맞추기\main.c(15,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\2.숫자맞추기\2.숫자맞추기\main.c(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\2.숫자맞추기\2.숫자맞추기\main.c(61,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\2.숫자맞추기\2.숫자맞추기\main.c(86,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2.숫자맞추기.vcxproj -> C:\Users\Administrator\Desktop\2.숫자맞추기\x64\Debug\2.숫자맞추기.exe
